@@ -1,0 +1,155 @@
+{
+  "users": [
+    {
+      "id": "xuQ2rdvbQrLBlKJ0WO10U",
+      "email": "demo1@collab.local",
+      "password_hash": "$2a$10$ohFiwl1eADViSQHmDcWl5.PDkbjtTgcIogz710qEuAWfZYuprf89S",
+      "created_at": "2026-02-15T19:13:55.402Z"
+    },
+    {
+      "id": "Exco4jafx2I-KNoMg5E5m",
+      "email": "demo2@collab.local",
+      "password_hash": "$2a$10$ohFiwl1eADViSQHmDcWl5.PDkbjtTgcIogz710qEuAWfZYuprf89S",
+      "created_at": "2026-02-15T19:13:55.403Z"
+    },
+    {
+      "id": "_YvwFMXPHCqAi7X_3HBSk",
+      "email": "demo3@collab.local",
+      "password_hash": "$2a$10$ohFiwl1eADViSQHmDcWl5.PDkbjtTgcIogz710qEuAWfZYuprf89S",
+      "created_at": "2026-02-15T19:13:55.403Z"
+    }
+  ],
+  "profiles": [
+    {
+      "user_id": "xuQ2rdvbQrLBlKJ0WO10U",
+      "display_name": "Demo Seller 1",
+      "brand_name": "Brand One",
+      "region": "Москва",
+      "about": "Продаём товары для дома. Ищем коллаборации.",
+      "marketplaces": [
+        "wildberries"
+      ],
+      "categories": [
+        "дом"
+      ],
+      "biz_type": "ИП",
+      "sales_monthly_rub": 350000,
+      "legal_name": "ИП Иванов И.И.",
+      "inn": "770123456789",
+      "phone": "+79990000001",
+      "contact_email": "demo1@collab.local",
+      "updated_at": "2026-02-15T19:13:55.403Z",
+      "logo_path": null
+    },
+    {
+      "user_id": "Exco4jafx2I-KNoMg5E5m",
+      "display_name": "Demo Seller 2",
+      "brand_name": "Brand Two",
+      "region": "Санкт‑Петербург",
+      "about": "Делаем одежду, нужен дизайнер и продвижение.",
+      "marketplaces": [
+        "wildberries",
+        "ozon"
+      ],
+      "categories": [
+        "одежда"
+      ],
+      "biz_type": "ООО",
+      "sales_monthly_rub": 1200000,
+      "legal_name": "ООО \"Бренд Ту\"",
+      "inn": "7812345678",
+      "phone": "+79990000002",
+      "contact_email": "demo2@collab.local",
+      "updated_at": "2026-02-15T19:13:55.403Z",
+      "logo_path": null
+    },
+    {
+      "user_id": "_YvwFMXPHCqAi7X_3HBSk",
+      "display_name": "Demo Seller 3",
+      "brand_name": "LogiPro",
+      "region": "Казань",
+      "about": "Оказываем услуги фулфилмента.",
+      "marketplaces": [
+        "wildberries"
+      ],
+      "categories": [
+        "логистика"
+      ],
+      "biz_type": "ИП",
+      "sales_monthly_rub": 0,
+      "legal_name": "ИП Петров П.П.",
+      "inn": "165012345678",
+      "phone": "+79990000003",
+      "contact_email": "demo3@collab.local",
+      "updated_at": "2026-02-15T19:13:55.403Z",
+      "logo_path": null
+    }
+  ],
+  "listings": [
+    {
+      "id": "fZP_TaC2DOQdJ-TrPn5WI",
+      "owner_user_id": "Exco4jafx2I-KNoMg5E5m",
+      "kind": "collab",
+      "title": "Коллаборация: капсула одежды + аксессуары",
+      "description": "Ищем партнёра с аксессуарами/упаковкой для совместного продукта.",
+      "region": "Санкт‑Петербург",
+      "marketplaces": [
+        "wildberries"
+      ],
+      "categories": [
+        "одежда",
+        "аксессуары"
+      ],
+      "tags": [
+        "коллаборация"
+      ],
+      "created_at": "2026-02-15T19:13:55.403Z"
+    },
+    {
+      "id": "W50c4JJlgX7Iestb1HmFc",
+      "owner_user_id": "_YvwFMXPHCqAi7X_3HBSk",
+      "kind": "service",
+      "title": "Фулфилмент и логистика для WB",
+      "description": "Приёмка, хранение, упаковка, отгрузка. Договор, отчётность.",
+      "region": "Казань",
+      "marketplaces": [
+        "wildberries"
+      ],
+      "categories": [
+        "логистика"
+      ],
+      "tags": [
+        "услуги"
+      ],
+      "created_at": "2026-02-15T19:13:55.403Z"
+    }
+  ],
+  "projects": [
+    {
+      "id": "ddLnJwqqRTOg_S-g3upKa",
+      "owner_user_id": "xuQ2rdvbQrLBlKJ0WO10U",
+      "title": "Совместный набор для дома",
+      "idea": "Собрать комплект: органайзеры + текстиль + подарочная упаковка.",
+      "goals": "Увеличить средний чек и охват на WB.",
+      "investments": "до 200k",
+      "responsibilities": "Мы: производство органайзеров. Партнёр: текстиль/упаковка.",
+      "created_at": "2026-02-15T19:13:55.403Z",
+      "updated_at": "2026-02-15T19:13:55.403Z"
+    }
+  ],
+  "match_requests": [
+    {
+      "id": "36MfumNXaR1khdiWvSSnC",
+      "from_user_id": "xuQ2rdvbQrLBlKJ0WO10U",
+      "to_user_id": "Exco4jafx2I-KNoMg5E5m",
+      "listing_id": "fZP_TaC2DOQdJ-TrPn5WI",
+      "project_id": "ddLnJwqqRTOg_S-g3upKa",
+      "pitch": "Есть производство органайзеров, можем собрать совместную капсулу.",
+      "status": "pending",
+      "created_at": "2026-02-15T19:13:55.403Z",
+      "updated_at": "2026-02-15T19:13:55.403Z"
+    }
+  ],
+  "matches": [],
+  "consents": []
+}

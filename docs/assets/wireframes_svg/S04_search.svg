@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S04  Home / Поиск</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="360" y="64" width="520" height="40" rx="10" fill="#FFFFFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="376" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">Поиск по товарам / нишам / услугам…</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="0" y="120" width="240" height="780" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<text x="24" y="144" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Поиск</text>
+<text x="24" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Мои карточки</text>
+<text x="24" y="212" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Проекты</text>
+<text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Заявки</text>
+<text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Матчи</text>
+<text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Настройки</text>
+<text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Политика ПДн</text>
+<text x="264" y="160" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#111" text-anchor="start">Быстрые фильтры</text>
+<rect x="264" y="176" width="96" height="32" rx="16" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="312.0" y="197" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#333" text-anchor="middle">COLLAB</text>
+<rect x="372" y="176" width="96" height="32" rx="16" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="420.0" y="197" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#333" text-anchor="middle">УСЛУГИ</text>
+<rect x="480" y="176" width="144" height="32" rx="16" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="552.0" y="197" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#333" text-anchor="middle">ПОСТАВЩИКИ</text>
+<rect x="636" y="176" width="96" height="32" rx="16" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="684.0" y="197" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#333" text-anchor="middle">Москва</text>
+<rect x="744" y="176" width="48" height="32" rx="16" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="768.0" y="197" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#333" text-anchor="middle">WB</text>
+<rect x="804" y="176" width="72" height="32" rx="16" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="840.0" y="197" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#333" text-anchor="middle">Ozon</text>
+<rect x="888" y="176" width="180" height="32" rx="16" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="978.0" y="197" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#333" text-anchor="middle">Высокий trust</text>
+<text x="264" y="252" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#111" text-anchor="start">Результаты</text>
+<rect x="264.0" y="264" width="564.0" height="170" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<rect x="280.0" y="280" width="80" height="80" rx="12" fill="#F2F2F2" stroke="#B9B9B9" stroke-width="2"/>
+<text x="376.0" y="302" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#111" text-anchor="start">ООО «Пример»</text>
+<text x="376.0" y="324" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#555" text-anchor="start">Тип: COLLAB • Ниша: Дом/Декор</text>
+<text x="376.0" y="346" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#777" text-anchor="start">Короткое описание 1–2 строки…</text>
+<rect x="376.0" y="368" width="90" height="26" rx="13" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="421.0" y="387" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#333" text-anchor="middle">Trust: 80%</text>
+<rect x="668.0" y="374" width="140" height="36" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="738.0" y="398.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="852.0" y="264" width="564.0" height="170" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<rect x="868.0" y="280" width="80" height="80" rx="12" fill="#F2F2F2" stroke="#B9B9B9" stroke-width="2"/>
+<text x="964.0" y="302" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#111" text-anchor="start">ООО «Пример»</text>
+<text x="964.0" y="324" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#555" text-anchor="start">Тип: COLLAB • Ниша: Дом/Декор</text>
+<text x="964.0" y="346" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#777" text-anchor="start">Короткое описание 1–2 строки…</text>
+<rect x="964.0" y="368" width="90" height="26" rx="13" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="1009.0" y="387" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#333" text-anchor="middle">Trust: 80%</text>
+<rect x="1256.0" y="374" width="140" height="36" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1326.0" y="398.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="264.0" y="452" width="564.0" height="170" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<rect x="280.0" y="468" width="80" height="80" rx="12" fill="#F2F2F2" stroke="#B9B9B9" stroke-width="2"/>
+<text x="376.0" y="490" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#111" text-anchor="start">ООО «Пример»</text>
+<text x="376.0" y="512" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#555" text-anchor="start">Тип: COLLAB • Ниша: Дом/Декор</text>
+<text x="376.0" y="534" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#777" text-anchor="start">Короткое описание 1–2 строки…</text>
+<rect x="376.0" y="556" width="90" height="26" rx="13" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="421.0" y="575" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#333" text-anchor="middle">Trust: 80%</text>
+<rect x="668.0" y="562" width="140" height="36" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="738.0" y="586.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="852.0" y="452" width="564.0" height="170" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<rect x="868.0" y="468" width="80" height="80" rx="12" fill="#F2F2F2" stroke="#B9B9B9" stroke-width="2"/>
+<text x="964.0" y="490" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#111" text-anchor="start">ООО «Пример»</text>
+<text x="964.0" y="512" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#555" text-anchor="start">Тип: COLLAB • Ниша: Дом/Декор</text>
+<text x="964.0" y="534" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#777" text-anchor="start">Короткое описание 1–2 строки…</text>
+<rect x="964.0" y="556" width="90" height="26" rx="13" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="1009.0" y="575" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#333" text-anchor="middle">Trust: 80%</text>
+<rect x="1256.0" y="562" width="140" height="36" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1326.0" y="586.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="264.0" y="640" width="564.0" height="170" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<rect x="280.0" y="656" width="80" height="80" rx="12" fill="#F2F2F2" stroke="#B9B9B9" stroke-width="2"/>
+<text x="376.0" y="678" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#111" text-anchor="start">ООО «Пример»</text>
+<text x="376.0" y="700" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#555" text-anchor="start">Тип: COLLAB • Ниша: Дом/Декор</text>
+<text x="376.0" y="722" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#777" text-anchor="start">Короткое описание 1–2 строки…</text>
+<rect x="376.0" y="744" width="90" height="26" rx="13" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="421.0" y="763" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#333" text-anchor="middle">Trust: 80%</text>
+<rect x="668.0" y="750" width="140" height="36" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="738.0" y="774.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="852.0" y="640" width="564.0" height="170" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<rect x="868.0" y="656" width="80" height="80" rx="12" fill="#F2F2F2" stroke="#B9B9B9" stroke-width="2"/>
+<text x="964.0" y="678" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#111" text-anchor="start">ООО «Пример»</text>
+<text x="964.0" y="700" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#555" text-anchor="start">Тип: COLLAB • Ниша: Дом/Декор</text>
+<text x="964.0" y="722" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#777" text-anchor="start">Короткое описание 1–2 строки…</text>
+<rect x="964.0" y="744" width="90" height="26" rx="13" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="1009.0" y="763" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#333" text-anchor="middle">Trust: 80%</text>
+<rect x="1256.0" y="750" width="140" height="36" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1326.0" y="774.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+</svg>

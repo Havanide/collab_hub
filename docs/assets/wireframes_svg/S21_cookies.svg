@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S21  Cookies consent</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="0" y="0" width="1440" height="900" fill="rgba(0,0,0,0.08)"/>
+<rect x="380.0" y="620" width="680" height="240" rx="16" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="404.0" y="664" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#111" text-anchor="start">Cookies</text>
+<text x="404.0" y="694" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Мы используем необходимые cookies для работы сервиса.
+Аналитические — только с вашего согласия.</text>
+<rect x="800.0" y="790" width="236" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="918.0" y="818.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Принять аналитические</text>
+<rect x="404.0" y="790" width="200" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="504.0" y="818.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Только необходимые</text>
+<text x="404.0" y="768" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Ссылка: Политика ПДн</text>
+</svg>

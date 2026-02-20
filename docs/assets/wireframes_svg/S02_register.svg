@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S02  Register</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="460.0" y="180" width="520" height="420" rx="16" fill="#FFFFFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="500.0" y="234" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#111" text-anchor="start">Register</text>
+<text x="500.0" y="270" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Email</text>
+<rect x="500.0" y="280" width="440" height="44" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="512.0" y="308.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">name@company.ru</text>
+<text x="500.0" y="350" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Пароль</text>
+<rect x="500.0" y="360" width="440" height="44" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="512.0" y="388.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">••••••••</text>
+<text x="500.0" y="432" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#333" text-anchor="start">☑ Согласен на обработку ПДн</text>
+<text x="500.0" y="456" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#666" text-anchor="start">(ссылка на Политику)</text>
+<rect x="500.0" y="500" width="200" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="600.0" y="528.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Создать аккаунт</text>
+<rect x="740.0" y="500" width="200" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="840.0" y="528.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Назад</text>
+</svg>

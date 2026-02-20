@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: collab-mvp-app
+    runtime: node
+    plan: free
+    region: frankfurt
+    healthCheckPath: /api/health
+    buildCommand: npm run render:build
+    startCommand: node server/src/index.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: JWT_SECRET
+        generateValue: true

@@ -1,0 +1,31 @@
+:root{
+  --wb-midnight:#7D256F;
+  --wb-violet:#8D297F;
+  --wb-redviolet:#BC3D96;
+  --wb-pink:#EC238D;
+  --wb-accent:#CB11AB;
+  --bg:#0f0b14;
+  --card:#ffffff;
+  --text:#14121a;
+  --muted:#6b7280;
+  --border:rgba(0,0,0,0.08);
+  --shadow:0 14px 40px rgba(0,0,0,0.14);
+  --radius:16px;
+}
+
+.wb-gradient{
+  background: linear-gradient(110deg, var(--wb-midnight), var(--wb-accent), var(--wb-pink));
+}
+
+.wb-chip{
+  display:inline-flex;
+  align-items:center;
+  gap:8px;
+  padding:6px 10px;
+  border-radius:999px;
+  background: rgba(203,17,171,0.12);
+  color: var(--wb-midnight);
+  border:1px solid rgba(203,17,171,0.22);
+  font-size:12px;
+  font-weight:600;
+}

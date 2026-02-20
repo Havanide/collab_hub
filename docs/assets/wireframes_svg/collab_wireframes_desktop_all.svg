@@ -1,0 +1,830 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="16580" viewBox="0 0 1440 16580">
+<g transform="translate(0,0)">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S00  Гость: нужна регистрация</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="460.0" y="220" width="520" height="320" rx="16" fill="#FFFFFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="720.0" y="276" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#111" text-anchor="middle">Доступ только для зарегистрированных</text>
+<text x="720.0" y="318" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#555" text-anchor="middle">Создайте профиль и находите партнёров для коллабораций</text>
+<rect x="540.0" y="380" width="160" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="620.0" y="408.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Войти</text>
+<rect x="740.0" y="380" width="160" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="820.0" y="408.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Зарегистрироваться</text>
+<text x="720.0" y="460" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="middle">Политика ПДн • Cookies</text>
+</g>
+<g transform="translate(0,980)">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S01  Login</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="460.0" y="180" width="520" height="360" rx="16" fill="#FFFFFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="500.0" y="234" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#111" text-anchor="start">Login</text>
+<text x="500.0" y="270" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Email</text>
+<rect x="500.0" y="280" width="440" height="44" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="512.0" y="308.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">name@company.ru</text>
+<text x="500.0" y="350" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Пароль</text>
+<rect x="500.0" y="360" width="440" height="44" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="512.0" y="388.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">••••••••</text>
+<rect x="500.0" y="440" width="200" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="600.0" y="468.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Войти</text>
+<rect x="740.0" y="440" width="200" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="840.0" y="468.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Назад</text>
+</g>
+<g transform="translate(0,1960)">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S02  Register</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="460.0" y="180" width="520" height="420" rx="16" fill="#FFFFFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="500.0" y="234" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#111" text-anchor="start">Register</text>
+<text x="500.0" y="270" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Email</text>
+<rect x="500.0" y="280" width="440" height="44" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="512.0" y="308.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">name@company.ru</text>
+<text x="500.0" y="350" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Пароль</text>
+<rect x="500.0" y="360" width="440" height="44" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="512.0" y="388.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">••••••••</text>
+<text x="500.0" y="432" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#333" text-anchor="start">☑ Согласен на обработку ПДн</text>
+<text x="500.0" y="456" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#666" text-anchor="start">(ссылка на Политику)</text>
+<rect x="500.0" y="500" width="200" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="600.0" y="528.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Создать аккаунт</text>
+<rect x="740.0" y="500" width="200" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="840.0" y="528.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Назад</text>
+</g>
+<g transform="translate(0,2940)">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S04  Home / Поиск</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="360" y="64" width="520" height="40" rx="10" fill="#FFFFFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="376" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">Поиск по товарам / нишам / услугам…</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="0" y="120" width="240" height="780" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<text x="24" y="144" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Поиск</text>
+<text x="24" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Мои карточки</text>
+<text x="24" y="212" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Проекты</text>
+<text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Заявки</text>
+<text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Матчи</text>
+<text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Настройки</text>
+<text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Политика ПДн</text>
+<text x="264" y="160" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#111" text-anchor="start">Быстрые фильтры</text>
+<rect x="264" y="176" width="96" height="32" rx="16" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="312.0" y="197" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#333" text-anchor="middle">COLLAB</text>
+<rect x="372" y="176" width="96" height="32" rx="16" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="420.0" y="197" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#333" text-anchor="middle">УСЛУГИ</text>
+<rect x="480" y="176" width="144" height="32" rx="16" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="552.0" y="197" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#333" text-anchor="middle">ПОСТАВЩИКИ</text>
+<rect x="636" y="176" width="96" height="32" rx="16" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="684.0" y="197" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#333" text-anchor="middle">Москва</text>
+<rect x="744" y="176" width="48" height="32" rx="16" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="768.0" y="197" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#333" text-anchor="middle">WB</text>
+<rect x="804" y="176" width="72" height="32" rx="16" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="840.0" y="197" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#333" text-anchor="middle">Ozon</text>
+<rect x="888" y="176" width="180" height="32" rx="16" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="978.0" y="197" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#333" text-anchor="middle">Высокий trust</text>
+<text x="264" y="252" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#111" text-anchor="start">Результаты</text>
+<rect x="264.0" y="264" width="564.0" height="170" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<rect x="280.0" y="280" width="80" height="80" rx="12" fill="#F2F2F2" stroke="#B9B9B9" stroke-width="2"/>
+<text x="376.0" y="302" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#111" text-anchor="start">ООО «Пример»</text>
+<text x="376.0" y="324" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#555" text-anchor="start">Тип: COLLAB • Ниша: Дом/Декор</text>
+<text x="376.0" y="346" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#777" text-anchor="start">Короткое описание 1–2 строки…</text>
+<rect x="376.0" y="368" width="90" height="26" rx="13" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="421.0" y="387" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#333" text-anchor="middle">Trust: 80%</text>
+<rect x="668.0" y="374" width="140" height="36" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="738.0" y="398.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="852.0" y="264" width="564.0" height="170" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<rect x="868.0" y="280" width="80" height="80" rx="12" fill="#F2F2F2" stroke="#B9B9B9" stroke-width="2"/>
+<text x="964.0" y="302" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#111" text-anchor="start">ООО «Пример»</text>
+<text x="964.0" y="324" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#555" text-anchor="start">Тип: COLLAB • Ниша: Дом/Декор</text>
+<text x="964.0" y="346" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#777" text-anchor="start">Короткое описание 1–2 строки…</text>
+<rect x="964.0" y="368" width="90" height="26" rx="13" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="1009.0" y="387" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#333" text-anchor="middle">Trust: 80%</text>
+<rect x="1256.0" y="374" width="140" height="36" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1326.0" y="398.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="264.0" y="452" width="564.0" height="170" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<rect x="280.0" y="468" width="80" height="80" rx="12" fill="#F2F2F2" stroke="#B9B9B9" stroke-width="2"/>
+<text x="376.0" y="490" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#111" text-anchor="start">ООО «Пример»</text>
+<text x="376.0" y="512" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#555" text-anchor="start">Тип: COLLAB • Ниша: Дом/Декор</text>
+<text x="376.0" y="534" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#777" text-anchor="start">Короткое описание 1–2 строки…</text>
+<rect x="376.0" y="556" width="90" height="26" rx="13" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="421.0" y="575" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#333" text-anchor="middle">Trust: 80%</text>
+<rect x="668.0" y="562" width="140" height="36" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="738.0" y="586.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="852.0" y="452" width="564.0" height="170" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<rect x="868.0" y="468" width="80" height="80" rx="12" fill="#F2F2F2" stroke="#B9B9B9" stroke-width="2"/>
+<text x="964.0" y="490" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#111" text-anchor="start">ООО «Пример»</text>
+<text x="964.0" y="512" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#555" text-anchor="start">Тип: COLLAB • Ниша: Дом/Декор</text>
+<text x="964.0" y="534" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#777" text-anchor="start">Короткое описание 1–2 строки…</text>
+<rect x="964.0" y="556" width="90" height="26" rx="13" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="1009.0" y="575" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#333" text-anchor="middle">Trust: 80%</text>
+<rect x="1256.0" y="562" width="140" height="36" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1326.0" y="586.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="264.0" y="640" width="564.0" height="170" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<rect x="280.0" y="656" width="80" height="80" rx="12" fill="#F2F2F2" stroke="#B9B9B9" stroke-width="2"/>
+<text x="376.0" y="678" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#111" text-anchor="start">ООО «Пример»</text>
+<text x="376.0" y="700" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#555" text-anchor="start">Тип: COLLAB • Ниша: Дом/Декор</text>
+<text x="376.0" y="722" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#777" text-anchor="start">Короткое описание 1–2 строки…</text>
+<rect x="376.0" y="744" width="90" height="26" rx="13" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="421.0" y="763" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#333" text-anchor="middle">Trust: 80%</text>
+<rect x="668.0" y="750" width="140" height="36" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="738.0" y="774.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="852.0" y="640" width="564.0" height="170" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<rect x="868.0" y="656" width="80" height="80" rx="12" fill="#F2F2F2" stroke="#B9B9B9" stroke-width="2"/>
+<text x="964.0" y="678" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#111" text-anchor="start">ООО «Пример»</text>
+<text x="964.0" y="700" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#555" text-anchor="start">Тип: COLLAB • Ниша: Дом/Декор</text>
+<text x="964.0" y="722" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#777" text-anchor="start">Короткое описание 1–2 строки…</text>
+<rect x="964.0" y="744" width="90" height="26" rx="13" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="1009.0" y="763" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#333" text-anchor="middle">Trust: 80%</text>
+<rect x="1256.0" y="750" width="140" height="36" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1326.0" y="774.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+</g>
+<g transform="translate(0,3920)">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S05  Фильтры</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="360" y="64" width="520" height="40" rx="10" fill="#FFFFFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="376" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">Поиск по товарам / нишам / услугам…</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="0" y="120" width="240" height="780" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<text x="24" y="144" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Поиск</text>
+<text x="24" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Мои карточки</text>
+<text x="24" y="212" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Проекты</text>
+<text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Заявки</text>
+<text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Матчи</text>
+<text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Настройки</text>
+<text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Политика ПДн</text>
+<rect x="264" y="144" width="420" height="732" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="284" y="178" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800" fill="#111" text-anchor="start">Параметры поиска</text>
+<text x="284" y="204" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Тип карточки</text>
+<rect x="284" y="214" width="380" height="42" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="296" y="241.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">COLLAB / УСЛУГИ / ПОСТАВЩИКИ</text>
+<text x="284" y="284" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Регион</text>
+<rect x="284" y="294" width="380" height="42" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="296" y="321.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">Москва / СПб / ...</text>
+<text x="284" y="364" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Маркетплейсы</text>
+<rect x="284" y="374" width="380" height="42" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="296" y="401.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">WB, Ozon, Yandex ...</text>
+<text x="284" y="444" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Категории</text>
+<rect x="284" y="454" width="380" height="42" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="296" y="481.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">Дом, Одежда, Электроника ...</text>
+<text x="284" y="524" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Trust уровень</text>
+<rect x="284" y="534" width="380" height="42" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="296" y="561.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">0–100%</text>
+<rect x="284" y="614" width="160" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="364.0" y="642.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Применить</text>
+<rect x="464" y="614" width="160" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="544.0" y="642.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Сбросить</text>
+<rect x="708" y="144" width="708" height="732" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="728" y="178" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800" fill="#111" text-anchor="start">Превью результатов</text>
+<rect x="728" y="214" width="668" height="92" rx="12" fill="#F9F9F9" stroke="#D0D0D0" stroke-width="1"/>
+<text x="742" y="246" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#333" text-anchor="start">Карточка ...</text>
+<text x="742" y="270" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#777" text-anchor="start">Короткое описание ...</text>
+<rect x="728" y="324" width="668" height="92" rx="12" fill="#F9F9F9" stroke="#D0D0D0" stroke-width="1"/>
+<text x="742" y="356" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#333" text-anchor="start">Карточка ...</text>
+<text x="742" y="380" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#777" text-anchor="start">Короткое описание ...</text>
+<rect x="728" y="434" width="668" height="92" rx="12" fill="#F9F9F9" stroke="#D0D0D0" stroke-width="1"/>
+<text x="742" y="466" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#333" text-anchor="start">Карточка ...</text>
+<text x="742" y="490" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#777" text-anchor="start">Короткое описание ...</text>
+<rect x="728" y="544" width="668" height="92" rx="12" fill="#F9F9F9" stroke="#D0D0D0" stroke-width="1"/>
+<text x="742" y="576" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#333" text-anchor="start">Карточка ...</text>
+<text x="742" y="600" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#777" text-anchor="start">Короткое описание ...</text>
+<rect x="728" y="654" width="668" height="92" rx="12" fill="#F9F9F9" stroke="#D0D0D0" stroke-width="1"/>
+<text x="742" y="686" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#333" text-anchor="start">Карточка ...</text>
+<text x="742" y="710" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#777" text-anchor="start">Короткое описание ...</text>
+</g>
+<g transform="translate(0,4900)">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S07  Карточка (детали)</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="360" y="64" width="520" height="40" rx="10" fill="#FFFFFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="376" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">Поиск по товарам / нишам / услугам…</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="0" y="120" width="240" height="780" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<text x="24" y="144" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Поиск</text>
+<text x="24" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Мои карточки</text>
+<text x="24" y="212" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Проекты</text>
+<text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Заявки</text>
+<text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Матчи</text>
+<text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Настройки</text>
+<text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Политика ПДн</text>
+<rect x="264" y="144" width="737" height="732" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<rect x="1025" y="144" width="391" height="732" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="284" y="178" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#111" text-anchor="start">ООО «Пиломатериалы»</text>
+<text x="284" y="202" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#555" text-anchor="start">Тип: COLLAB • Регион: Москва • WB/Ozon</text>
+<rect x="284" y="224" width="697" height="220" rx="12" fill="#F2F2F2" stroke="#D0D0D0" stroke-width="2"/>
+<text x="284" y="474" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="900" fill="#111" text-anchor="start">Описание</text>
+<rect x="284" y="488" width="697" height="220" rx="12" fill="#FFF" stroke="#D0D0D0" stroke-width="2"/>
+<text x="296" y="516" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#666" text-anchor="start">Текст описания 5–8 строк…</text>
+<text x="284" y="734" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#666" text-anchor="start">Отзывы (вне MVP) / Trust</text>
+<text x="1045" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="900" fill="#111" text-anchor="start">Действия</text>
+<rect x="1045" y="214" width="351" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1220.5" y="242.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Предложить коллаб (заявка)</text>
+<rect x="1045" y="272" width="351" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1220.5" y="300.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">В избранное (вне MVP)</text>
+<text x="1045" y="344" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Скрытые данные откроются
+после взаимного матча</text>
+<rect x="1045" y="390" width="351" height="120" rx="12" fill="#F9F9F9" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1057" y="424" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#777" text-anchor="start">ИНН: скрыто</text>
+<text x="1057" y="448" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#777" text-anchor="start">Телефон: скрыто</text>
+<text x="1057" y="472" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#777" text-anchor="start">Юр.название: скрыто</text>
+</g>
+<g transform="translate(0,5880)">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S08  Отправка заявки</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="360" y="64" width="520" height="40" rx="10" fill="#FFFFFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="376" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">Поиск по товарам / нишам / услугам…</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="0" y="120" width="240" height="780" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<text x="24" y="144" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Поиск</text>
+<text x="24" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Мои карточки</text>
+<text x="24" y="212" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Проекты</text>
+<text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Заявки</text>
+<text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Матчи</text>
+<text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Настройки</text>
+<text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Политика ПДн</text>
+<rect x="0" y="0" width="1440" height="900" fill="rgba(0,0,0,0.08)"/>
+<rect x="360.0" y="170.0" width="720" height="560" rx="16" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="384.0" y="210.0" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#111" text-anchor="start">Предложение коллаборации</text>
+<text x="384.0" y="234.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Выберите проект, который отправите партнёру</text>
+<rect x="384.0" y="256.0" width="672" height="160" rx="12" fill="#F9F9F9" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="400.0" y="272.0" width="640" height="38" rx="10" fill="#FFF" stroke="#CFCFCF" stroke-width="1"/>
+<text x="416.0" y="297.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#333" text-anchor="start">Проект #1: Название проекта</text>
+<rect x="400.0" y="320.0" width="640" height="38" rx="10" fill="#FFF" stroke="#CFCFCF" stroke-width="1"/>
+<text x="416.0" y="345.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#333" text-anchor="start">Проект #2: Название проекта</text>
+<rect x="400.0" y="368.0" width="640" height="38" rx="10" fill="#FFF" stroke="#CFCFCF" stroke-width="1"/>
+<text x="416.0" y="393.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#333" text-anchor="start">Проект #3: Название проекта</text>
+<rect x="384.0" y="430.0" width="220" height="40" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="494.0" y="456.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Создать новый проект</text>
+<text x="384.0" y="490.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#444" text-anchor="start">Сообщение (обязательно)</text>
+<rect x="384.0" y="504.0" width="672" height="120" rx="12" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="400.0" y="530.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#9A9A9A" text-anchor="start">Коротко: почему вы пишете и что предлагаете…</text>
+<rect x="820.0" y="660.0" width="236" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="938.0" y="688.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Отправить заявку</text>
+<rect x="384.0" y="660.0" width="140" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="454.0" y="688.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Отмена</text>
+<text x="384.0" y="638.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#777" text-anchor="start">Проверки: выбран проект ИЛИ создан новый; сообщение не пустое</text>
+</g>
+<g transform="translate(0,6860)">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S09  Проект create/edit</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="0" y="120" width="240" height="780" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<text x="24" y="144" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Поиск</text>
+<text x="24" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Мои карточки</text>
+<text x="24" y="212" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Проекты</text>
+<text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Заявки</text>
+<text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Матчи</text>
+<text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Настройки</text>
+<text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Политика ПДн</text>
+<rect x="264" y="144" width="1152" height="732" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="288" y="182" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#111" text-anchor="start">Проект (шаблон предложения)</text>
+<text x="288" y="206" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Лимит MVP: максимум 3 проекта. Если лимит достигнут — удалить/заменить.</text>
+<text x="288" y="230" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Название проекта*</text>
+<rect x="288" y="240" width="1104" height="44" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="300" y="268.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">Напр. «Коллаб: наборы для кухни»</text>
+<text x="288" y="314" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#444" text-anchor="start">Идея/описание*</text>
+<rect x="288" y="324" width="1104" height="96" rx="12" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="288" y="446" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#444" text-anchor="start">Цели*</text>
+<rect x="288" y="456" width="1104" height="72" rx="12" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="288" y="554" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Вложения (диапазон)*</text>
+<rect x="288" y="564" width="420" height="44" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="300" y="592.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">0–50к / 50–200к / 200к+</text>
+<text x="728" y="554" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Сроки</text>
+<rect x="728" y="564" width="664" height="44" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="740" y="592.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">Напр. 2–4 недели</text>
+<text x="288" y="638" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#444" text-anchor="start">Ответственность моей стороны*</text>
+<rect x="288" y="648" width="546.0" height="96" rx="12" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="846.0" y="638" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#444" text-anchor="start">Ответственность партнёра*</text>
+<rect x="846.0" y="648" width="546.0" height="96" rx="12" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<rect x="1156" y="814" width="236" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1274.0" y="842.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Сохранить</text>
+<rect x="288" y="814" width="140" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="358.0" y="842.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Назад</text>
+</g>
+<g transform="translate(0,7840)">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S10  Мои проекты</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="0" y="120" width="240" height="780" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<text x="24" y="144" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Поиск</text>
+<text x="24" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Мои карточки</text>
+<text x="24" y="212" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Проекты</text>
+<text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Заявки</text>
+<text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Матчи</text>
+<text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Настройки</text>
+<text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Политика ПДн</text>
+<rect x="264" y="144" width="1152" height="732" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="288" y="182" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#111" text-anchor="start">Мои проекты (до 3)</text>
+<rect x="1156" y="168" width="236" height="40" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1274.0" y="194.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Создать проект</text>
+<rect x="288" y="230" width="1104" height="48" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="304" y="260" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#333" text-anchor="start">Название</text>
+<text x="784" y="260" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#333" text-anchor="start">Вложения</text>
+<text x="964" y="260" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#333" text-anchor="start">Статус</text>
+<text x="1084" y="260" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#333" text-anchor="start">Действия</text>
+<rect x="288" y="290" width="1104" height="56" rx="10" fill="#FFF" stroke="#E0E0E0" stroke-width="1"/>
+<text x="304" y="324" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#111" text-anchor="start">Проект #1</text>
+<text x="784" y="324" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#555" text-anchor="start">50–200к</text>
+<text x="964" y="324" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#555" text-anchor="start">Активен</text>
+<rect x="1084" y="302" width="90" height="32" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1129.0" y="324.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Edit</text>
+<rect x="1184" y="302" width="90" height="32" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1229.0" y="324.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Del</text>
+<rect x="288" y="358" width="1104" height="56" rx="10" fill="#FFF" stroke="#E0E0E0" stroke-width="1"/>
+<text x="304" y="392" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#111" text-anchor="start">Проект #2</text>
+<text x="784" y="392" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#555" text-anchor="start">50–200к</text>
+<text x="964" y="392" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#555" text-anchor="start">Активен</text>
+<rect x="1084" y="370" width="90" height="32" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1129.0" y="392.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Edit</text>
+<rect x="1184" y="370" width="90" height="32" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1229.0" y="392.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Del</text>
+<rect x="288" y="426" width="1104" height="56" rx="10" fill="#FFF" stroke="#E0E0E0" stroke-width="1"/>
+<text x="304" y="460" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#111" text-anchor="start">Проект #3</text>
+<text x="784" y="460" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#555" text-anchor="start">50–200к</text>
+<text x="964" y="460" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#555" text-anchor="start">Активен</text>
+<rect x="1084" y="438" width="90" height="32" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1129.0" y="460.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Edit</text>
+<rect x="1184" y="438" width="90" height="32" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1229.0" y="460.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Del</text>
+<text x="288" y="840" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Если создаёте 4‑й проект → предлагаем удалить/заменить существующий.</text>
+</g>
+<g transform="translate(0,8820)">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S11  ЛК / Профиль</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="0" y="120" width="240" height="780" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<text x="24" y="144" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Поиск</text>
+<text x="24" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Мои карточки</text>
+<text x="24" y="212" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Проекты</text>
+<text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Заявки</text>
+<text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Матчи</text>
+<text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Настройки</text>
+<text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Политика ПДн</text>
+<rect x="264" y="144" width="1152" height="732" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="288" y="182" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#111" text-anchor="start">Профиль компании</text>
+<rect x="1226" y="166" width="166" height="34" rx="17" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="1309" y="189" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#333" text-anchor="middle">Trust: 60% (MVP)</text>
+<text x="288" y="218" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="900" fill="#111" text-anchor="start">Публичные данные (видны в поиске)</text>
+<rect x="288" y="230" width="540.0" height="520" rx="12" fill="#F9F9F9" stroke="#D0D0D0" stroke-width="1"/>
+<text x="304" y="244" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Название компании (бренд)*</text>
+<rect x="304" y="254" width="508.0" height="44" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="316" y="282.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">Напр. BrandName</text>
+<text x="304" y="328" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#444" text-anchor="start">Описание* (2–6 строк)</text>
+<rect x="304" y="338" width="508.0" height="96" rx="12" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="304" y="460" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Регион*</text>
+<rect x="304" y="470" width="508.0" height="44" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="316" y="498.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">Москва</text>
+<text x="304" y="544" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Маркетплейсы*</text>
+<rect x="304" y="554" width="508.0" height="44" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="316" y="582.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">WB, Ozon</text>
+<text x="304" y="628" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Категории*</text>
+<rect x="304" y="638" width="508.0" height="44" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="316" y="666.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">Дом/Декор</text>
+<text x="304" y="732" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#444" text-anchor="start">Логотип* (upload)</text>
+<rect x="304" y="746" width="160" height="120" rx="12" fill="#F2F2F2" stroke="#B9B9B9" stroke-width="2"/>
+<rect x="478" y="786" width="160" height="40" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="558.0" y="812.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Загрузить</text>
+<text x="852.0" y="218" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="900" fill="#111" text-anchor="start">Скрытые данные (после матча)</text>
+<rect x="852.0" y="230" width="540.0" height="520" rx="12" fill="#F9F9F9" stroke="#D0D0D0" stroke-width="1"/>
+<text x="868.0" y="244" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Юридическое название*</text>
+<rect x="868.0" y="254" width="508.0" height="44" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="880.0" y="282.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">ООО «…»</text>
+<text x="868.0" y="328" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">ИНН*</text>
+<rect x="868.0" y="338" width="508.0" height="44" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="880.0" y="366.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">770…</text>
+<text x="868.0" y="412" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Телефон (RU)*</text>
+<rect x="868.0" y="422" width="508.0" height="44" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="880.0" y="450.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">+7 (___) ___‑__‑__</text>
+<text x="868.0" y="496" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#444" text-anchor="start">Контакты (опц.)</text>
+<rect x="868.0" y="506" width="508.0" height="44" rx="8" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="880.0" y="534.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">TG / Email / Site</text>
+<text x="868.0" y="598" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Примечание: поля не показываются в поиске.</text>
+<rect x="1156" y="814" width="236" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1274.0" y="842.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Сохранить</text>
+</g>
+<g transform="translate(0,9800)">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S13  Заявки</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="0" y="120" width="240" height="780" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<text x="24" y="144" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Поиск</text>
+<text x="24" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Мои карточки</text>
+<text x="24" y="212" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Проекты</text>
+<text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Заявки</text>
+<text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Матчи</text>
+<text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Настройки</text>
+<text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Политика ПДн</text>
+<rect x="264" y="144" width="1152" height="732" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="288" y="182" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#111" text-anchor="start">Заявки</text>
+<rect x="288" y="204" width="160" height="34" rx="17" fill="#FFF" stroke="#C5C5C5" stroke-width="2"/>
+<text x="368" y="226" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#111" text-anchor="middle">Входящие</text>
+<rect x="460" y="204" width="160" height="34" rx="17" fill="#F2F2F2" stroke="#C5C5C5" stroke-width="2"/>
+<text x="540" y="226" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#111" text-anchor="middle">Исходящие</text>
+<rect x="288" y="254" width="1104" height="72" rx="12" fill="#FFF" stroke="#E0E0E0" stroke-width="1"/>
+<text x="308" y="284" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#111" text-anchor="start">От: ООО «A» → ООО «B»</text>
+<text x="308" y="306" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Проект: «Коллаб…» • Статус: SENT</text>
+<rect x="1256" y="274" width="120" height="34" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1316.0" y="297.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="288" y="340" width="1104" height="72" rx="12" fill="#FFF" stroke="#E0E0E0" stroke-width="1"/>
+<text x="308" y="370" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#111" text-anchor="start">От: ООО «A» → ООО «B»</text>
+<text x="308" y="392" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Проект: «Коллаб…» • Статус: SENT</text>
+<rect x="1256" y="360" width="120" height="34" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1316.0" y="383.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="288" y="426" width="1104" height="72" rx="12" fill="#FFF" stroke="#E0E0E0" stroke-width="1"/>
+<text x="308" y="456" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#111" text-anchor="start">От: ООО «A» → ООО «B»</text>
+<text x="308" y="478" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Проект: «Коллаб…» • Статус: SENT</text>
+<rect x="1256" y="446" width="120" height="34" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1316.0" y="469.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="288" y="512" width="1104" height="72" rx="12" fill="#FFF" stroke="#E0E0E0" stroke-width="1"/>
+<text x="308" y="542" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#111" text-anchor="start">От: ООО «A» → ООО «B»</text>
+<text x="308" y="564" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Проект: «Коллаб…» • Статус: SENT</text>
+<rect x="1256" y="532" width="120" height="34" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1316.0" y="555.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="288" y="598" width="1104" height="72" rx="12" fill="#FFF" stroke="#E0E0E0" stroke-width="1"/>
+<text x="308" y="628" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#111" text-anchor="start">От: ООО «A» → ООО «B»</text>
+<text x="308" y="650" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Проект: «Коллаб…» • Статус: SENT</text>
+<rect x="1256" y="618" width="120" height="34" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1316.0" y="641.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="288" y="684" width="1104" height="72" rx="12" fill="#FFF" stroke="#E0E0E0" stroke-width="1"/>
+<text x="308" y="714" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#111" text-anchor="start">От: ООО «A» → ООО «B»</text>
+<text x="308" y="736" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Проект: «Коллаб…» • Статус: SENT</text>
+<rect x="1256" y="704" width="120" height="34" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1316.0" y="727.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+</g>
+<g transform="translate(0,10780)">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S14  Входящая заявка</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="0" y="120" width="240" height="780" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<text x="24" y="144" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Поиск</text>
+<text x="24" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Мои карточки</text>
+<text x="24" y="212" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Проекты</text>
+<text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Заявки</text>
+<text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Матчи</text>
+<text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Настройки</text>
+<text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Политика ПДн</text>
+<rect x="264" y="144" width="760" height="732" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<rect x="1048" y="144" width="368" height="732" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="284" y="178" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#111" text-anchor="start">Заявка от ООО «A»</text>
+<text x="284" y="202" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#555" text-anchor="start">Предложенный проект (read-only)</text>
+<rect x="284" y="224" width="720" height="360" rx="12" fill="#F9F9F9" stroke="#D0D0D0" stroke-width="1"/>
+<text x="300" y="256" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="900" fill="#111" text-anchor="start">Название проекта</text>
+<text x="300" y="284" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#666" text-anchor="start">Идея/цели/вложения/ответственности…</text>
+<text x="284" y="614" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#444" text-anchor="start">Сообщение</text>
+<rect x="284" y="630" width="720" height="120" rx="12" fill="#FFF" stroke="#D0D0D0" stroke-width="2"/>
+<text x="300" y="660" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#666" text-anchor="start">Короткое сообщение от инициатора…</text>
+<text x="1068" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="900" fill="#111" text-anchor="start">Действия</text>
+<rect x="1068" y="214" width="328" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1232.0" y="242.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Принять</text>
+<rect x="1068" y="272" width="328" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1232.0" y="300.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Отклонить</text>
+<text x="1068" y="344" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">После «Принять» инициатору
+появится кнопка «Подтвердить матч».</text>
+</g>
+<g transform="translate(0,11760)">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S15  Исходящая заявка</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="0" y="120" width="240" height="780" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<text x="24" y="144" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Поиск</text>
+<text x="24" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Мои карточки</text>
+<text x="24" y="212" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Проекты</text>
+<text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Заявки</text>
+<text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Матчи</text>
+<text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Настройки</text>
+<text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Политика ПДн</text>
+<rect x="264" y="144" width="1152" height="732" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="288" y="182" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#111" text-anchor="start">Исходящая заявка</text>
+<text x="288" y="206" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#555" text-anchor="start">Статус: ACCEPTED_BY_TO (ожидает вашего подтверждения)</text>
+<rect x="288" y="234" width="1104" height="360" rx="12" fill="#F9F9F9" stroke="#D0D0D0" stroke-width="1"/>
+<text x="308" y="266" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="900" fill="#111" text-anchor="start">Ваш проект (read-only)</text>
+<text x="308" y="294" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#666" text-anchor="start">…контент проекта…</text>
+<rect x="1156" y="624" width="236" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1274.0" y="652.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Подтвердить матч</text>
+<rect x="288" y="624" width="180" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="378.0" y="652.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Отменить заявку</text>
+<text x="288" y="684" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Правила: подтвердить можно только если получатель уже нажал «Принять».</text>
+</g>
+<g transform="translate(0,12740)">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S17  Матчи</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="0" y="120" width="240" height="780" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<text x="24" y="144" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Поиск</text>
+<text x="24" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Мои карточки</text>
+<text x="24" y="212" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Проекты</text>
+<text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Заявки</text>
+<text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Матчи</text>
+<text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Настройки</text>
+<text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Политика ПДн</text>
+<rect x="264" y="144" width="1152" height="732" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="288" y="182" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#111" text-anchor="start">Матчи (активные сотрудничества)</text>
+<rect x="288" y="230" width="1104" height="72" rx="12" fill="#FFF" stroke="#E0E0E0" stroke-width="1"/>
+<text x="308" y="260" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#111" text-anchor="start">ООО «A» ↔ ООО «B»</text>
+<text x="308" y="282" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Проект: «Коллаб…» • Статус: ACTIVE</text>
+<rect x="1256" y="250" width="120" height="34" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1316.0" y="273.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="288" y="316" width="1104" height="72" rx="12" fill="#FFF" stroke="#E0E0E0" stroke-width="1"/>
+<text x="308" y="346" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#111" text-anchor="start">ООО «A» ↔ ООО «B»</text>
+<text x="308" y="368" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Проект: «Коллаб…» • Статус: ACTIVE</text>
+<rect x="1256" y="336" width="120" height="34" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1316.0" y="359.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="288" y="402" width="1104" height="72" rx="12" fill="#FFF" stroke="#E0E0E0" stroke-width="1"/>
+<text x="308" y="432" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#111" text-anchor="start">ООО «A» ↔ ООО «B»</text>
+<text x="308" y="454" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Проект: «Коллаб…» • Статус: ACTIVE</text>
+<rect x="1256" y="422" width="120" height="34" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1316.0" y="445.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="288" y="488" width="1104" height="72" rx="12" fill="#FFF" stroke="#E0E0E0" stroke-width="1"/>
+<text x="308" y="518" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#111" text-anchor="start">ООО «A» ↔ ООО «B»</text>
+<text x="308" y="540" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Проект: «Коллаб…» • Статус: ACTIVE</text>
+<rect x="1256" y="508" width="120" height="34" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1316.0" y="531.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="288" y="574" width="1104" height="72" rx="12" fill="#FFF" stroke="#E0E0E0" stroke-width="1"/>
+<text x="308" y="604" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#111" text-anchor="start">ООО «A» ↔ ООО «B»</text>
+<text x="308" y="626" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Проект: «Коллаб…» • Статус: ACTIVE</text>
+<rect x="1256" y="594" width="120" height="34" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1316.0" y="617.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+<rect x="288" y="660" width="1104" height="72" rx="12" fill="#FFF" stroke="#E0E0E0" stroke-width="1"/>
+<text x="308" y="690" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" fill="#111" text-anchor="start">ООО «A» ↔ ООО «B»</text>
+<text x="308" y="712" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Проект: «Коллаб…» • Статус: ACTIVE</text>
+<rect x="1256" y="680" width="120" height="34" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1316.0" y="703.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Открыть</text>
+</g>
+<g transform="translate(0,13720)">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S18  Матч (детали)</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="0" y="120" width="240" height="780" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<text x="24" y="144" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Поиск</text>
+<text x="24" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Мои карточки</text>
+<text x="24" y="212" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Проекты</text>
+<text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Заявки</text>
+<text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Матчи</text>
+<text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Настройки</text>
+<text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Политика ПДн</text>
+<rect x="264" y="144" width="668" height="732" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<rect x="956" y="144" width="460" height="732" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="284" y="178" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#111" text-anchor="start">Матч: ООО «A» ↔ ООО «B»</text>
+<text x="284" y="202" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#555" text-anchor="start">Скрытые данные раскрыты (match active)</text>
+<rect x="284" y="226" width="628" height="160" rx="12" fill="#F9F9F9" stroke="#D0D0D0" stroke-width="1"/>
+<text x="300" y="258" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="900" fill="#111" text-anchor="start">Данные партнёра</text>
+<text x="300" y="286" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#333" text-anchor="start">Юр.название: ООО «…»</text>
+<text x="300" y="308" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#333" text-anchor="start">ИНН: 770…</text>
+<text x="300" y="330" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#333" text-anchor="start">Телефон: +7…</text>
+<text x="284" y="424" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="900" fill="#111" text-anchor="start">Проект, который был отправлен</text>
+<rect x="284" y="440" width="628" height="280" rx="12" fill="#FFF" stroke="#D0D0D0" stroke-width="2"/>
+<text x="300" y="474" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#666" text-anchor="start">Название / цели / вложения / ответственности…</text>
+<text x="976" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="900" fill="#111" text-anchor="start">Действия</text>
+<rect x="976" y="214" width="420" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="1186.0" y="242.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Разорвать сотрудничество</text>
+<text x="976" y="274" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">После разрыва скрытые данные
+станут недоступны сразу.</text>
+</g>
+<g transform="translate(0,14700)">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S20  Политика ПДн</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="0" y="120" width="240" height="780" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<text x="24" y="144" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Поиск</text>
+<text x="24" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Мои карточки</text>
+<text x="24" y="212" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Проекты</text>
+<text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Заявки</text>
+<text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Матчи</text>
+<text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Настройки</text>
+<text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Политика ПДн</text>
+<rect x="264" y="144" width="1152" height="732" rx="14" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="288" y="182" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#111" text-anchor="start">Политика обработки персональных данных</text>
+<text x="288" y="206" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Публичная страница. Доступна без авторизации.</text>
+<rect x="288" y="234" width="1104" height="616" rx="12" fill="#F9F9F9" stroke="#D0D0D0" stroke-width="1"/>
+<text x="308" y="274" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#666" text-anchor="start">Разделы: термины, цели обработки, состав ПДн, права субъекта, контакты оператора…</text>
+</g>
+<g transform="translate(0,15680)">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S21  Cookies consent</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="0" y="0" width="1440" height="900" fill="rgba(0,0,0,0.08)"/>
+<rect x="380.0" y="620" width="680" height="240" rx="16" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="404.0" y="664" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#111" text-anchor="start">Cookies</text>
+<text x="404.0" y="694" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Мы используем необходимые cookies для работы сервиса.
+Аналитические — только с вашего согласия.</text>
+<rect x="800.0" y="790" width="236" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="918.0" y="818.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Принять аналитические</text>
+<rect x="404.0" y="790" width="200" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="504.0" y="818.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Только необходимые</text>
+<text x="404.0" y="768" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Ссылка: Политика ПДн</text>
+</g>
+</svg>

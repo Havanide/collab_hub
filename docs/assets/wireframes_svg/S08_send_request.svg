@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+<rect x="0" y="0" width="1440" height="900" fill="#F6F7F8"/>
+
+<text x="24" y="32" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#111" text-anchor="start">S08  Отправка заявки</text>
+<rect x="0" y="48" width="1440" height="72" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="24" y="64" width="40" height="40" rx="8" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="76" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Сервис для коллабораций</text>
+<rect x="360" y="64" width="520" height="40" rx="10" fill="#FFFFFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="376" y="90" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#9A9A9A" text-anchor="start">Поиск по товарам / нишам / услугам…</text>
+<rect x="980" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1020" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Профиль</text>
+<rect x="1070" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1110" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Проекты</text>
+<rect x="1160" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1200" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Заявки</text>
+<rect x="1250" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1290" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Матчи</text>
+<rect x="1340" y="68" width="80" height="32" rx="10" fill="#F6F6F6" stroke="#D0D0D0" stroke-width="1"/>
+<text x="1380" y="90" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#333" text-anchor="middle">Выйти</text>
+<rect x="0" y="120" width="240" height="780" rx="0" fill="#FFFFFF" stroke="#D0D0D0" stroke-width="1"/>
+<text x="24" y="144" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="start">Поиск</text>
+<text x="24" y="178" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Мои карточки</text>
+<text x="24" y="212" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Проекты</text>
+<text x="24" y="246" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Заявки</text>
+<text x="24" y="280" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Матчи</text>
+<text x="24" y="314" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Настройки</text>
+<text x="24" y="348" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#333" text-anchor="start">Политика ПДн</text>
+<rect x="0" y="0" width="1440" height="900" fill="rgba(0,0,0,0.08)"/>
+<rect x="360.0" y="170.0" width="720" height="560" rx="16" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="384.0" y="210.0" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#111" text-anchor="start">Предложение коллаборации</text>
+<text x="384.0" y="234.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#666" text-anchor="start">Выберите проект, который отправите партнёру</text>
+<rect x="384.0" y="256.0" width="672" height="160" rx="12" fill="#F9F9F9" stroke="#D0D0D0" stroke-width="1"/>
+<rect x="400.0" y="272.0" width="640" height="38" rx="10" fill="#FFF" stroke="#CFCFCF" stroke-width="1"/>
+<text x="416.0" y="297.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#333" text-anchor="start">Проект #1: Название проекта</text>
+<rect x="400.0" y="320.0" width="640" height="38" rx="10" fill="#FFF" stroke="#CFCFCF" stroke-width="1"/>
+<text x="416.0" y="345.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#333" text-anchor="start">Проект #2: Название проекта</text>
+<rect x="400.0" y="368.0" width="640" height="38" rx="10" fill="#FFF" stroke="#CFCFCF" stroke-width="1"/>
+<text x="416.0" y="393.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#333" text-anchor="start">Проект #3: Название проекта</text>
+<rect x="384.0" y="430.0" width="220" height="40" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="494.0" y="456.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Создать новый проект</text>
+<text x="384.0" y="490.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#444" text-anchor="start">Сообщение (обязательно)</text>
+<rect x="384.0" y="504.0" width="672" height="120" rx="12" fill="#FFF" stroke="#B9B9B9" stroke-width="2"/>
+<text x="400.0" y="530.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#9A9A9A" text-anchor="start">Коротко: почему вы пишете и что предлагаете…</text>
+<rect x="820.0" y="660.0" width="236" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="938.0" y="688.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Отправить заявку</text>
+<rect x="384.0" y="660.0" width="140" height="44" rx="10" fill="#F2F2F2" stroke="#8E8E8E" stroke-width="2"/>
+<text x="454.0" y="688.0" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#111" text-anchor="middle">Отмена</text>
+<text x="384.0" y="638.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#777" text-anchor="start">Проверки: выбран проект ИЛИ создан новый; сообщение не пустое</text>
+</svg>
