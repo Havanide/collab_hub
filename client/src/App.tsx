@@ -26,7 +26,7 @@ function Protected({ children }: { children: React.ReactNode }) {
 
 export default function App() {
   return (
-    <>
+    <div className="app-shell">
       <Routes>
         <Route path="/" element={<Navigate to="/app/home" replace />} />
         <Route path="/login" element={<LoginPage />} />
@@ -110,6 +110,6 @@ export default function App() {
       </Routes>
 
       <CookieBanner />
-    </>
+    </div>
   );
 }

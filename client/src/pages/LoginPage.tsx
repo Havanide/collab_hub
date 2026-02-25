@@ -6,7 +6,7 @@ import Toast from '../components/Toast';
 export default function LoginPage() {
   const { login } = useAuth();
   const nav = useNavigate();
-  const [email, setEmail] = useState('demo1@collab.local');
+  const [email, setEmail] = useState('collab1@collab.local');
   const [password, setPassword] = useState('demo1234');
   const [busy, setBusy] = useState(false);
   const [toast, setToast] = useState<string | null>(null);
