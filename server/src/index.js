@@ -7,7 +7,7 @@ import path from 'path';
 import fs from 'fs';
 import { nanoid } from 'nanoid';
 
-import { loadDb, saveDb, nowIso, paths, normalizeDb } from './store.js';
+import { loadDb, saveDb, nowIso, paths, normalizeDb, resetDb } from './store.js';
 import { seedIfEmpty } from './seed.js';
 import { signToken, setAuthCookie, clearAuthCookie, requireAuth } from './auth.js';
 import { computeTrust, isValidInn, normalizePhoneRu } from './validators.js';
@@ -85,6 +85,21 @@ function counterpart(match, myId) {
 
 // --- Health
 app.get('/api/health', (_req, res) => res.json({ ok: true, time: nowIso() }));
+
+// --- Admin: reset DB (protected by RESET_SECRET env var)
+app.post('/api/admin/reset', (req, res) => {
+  const secret = process.env.RESET_SECRET;
+  if (!secret || req.headers['x-reset-secret'] !== secret) {
+    return res.status(403).json({ error: 'forbidden' });
+  }
+  resetDb();
+  const fresh = loadDb();
+  Object.assign(db, fresh);
+  seedIfEmpty(db);
+  normalizeDb(db);
+  saveDb(db);
+  res.json({ ok: true, users: db.users.length, listings: db.listings.length });
+});
 
 // --- Privacy / cookies
 app.get('/api/privacy', (_req, res) => {
