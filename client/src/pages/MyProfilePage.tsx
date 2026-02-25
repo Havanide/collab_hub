@@ -1,5 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import TopNav from '../components/TopNav';
+import Footer from '../components/Footer';
 import Toast from '../components/Toast';
 import { api, API_BASE, MyProfile } from '../api';
 
@@ -45,6 +46,7 @@ export default function MyProfilePage() {
       <>
         <TopNav />
         <div className="container page">Загрузка…</div>
+        <Footer />
       </>
     );
   }
@@ -204,6 +206,7 @@ export default function MyProfilePage() {
       </div>
 
       <Toast message={toast} onClose={() => setToast(null)} />
+      <Footer />
     </>
   );
 }

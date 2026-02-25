@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import TopNav from '../components/TopNav';
+import Footer from '../components/Footer';
 import Toast from '../components/Toast';
 import { api, MatchRequest } from '../api';
 
@@ -69,6 +70,7 @@ export default function RequestsPage() {
       </div>
 
       <Toast message={toast} onClose={() => setToast(null)} />
+      <Footer />
     </>
   );
 }

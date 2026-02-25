@@ -25,7 +25,6 @@ export default function TopNav() {
           <NavLink to="/app/projects" className={({ isActive }) => (isActive ? 'active' : '')}>Проекты</NavLink>
           <NavLink to="/app/requests" className={({ isActive }) => (isActive ? 'active' : '')}>Заявки</NavLink>
           <NavLink to="/app/matches" className={({ isActive }) => (isActive ? 'active' : '')}>Матчи</NavLink>
-          <a href="/privacy" className="muted-link">Privacy</a>
         </nav>
 
         <div className="nav-right">

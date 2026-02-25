@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Link, useNavigate, useParams } from 'react-router-dom';
 import TopNav from '../components/TopNav';
+import Footer from '../components/Footer';
 import Toast from '../components/Toast';
 import { api, API_BASE, MatchDetails } from '../api';
 
@@ -137,6 +138,7 @@ export default function MatchDetailsPage() {
       </div>
 
       <Toast message={toast} onClose={() => setToast(null)} />
+      <Footer />
     </>
   );
 }

@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import TopNav from '../components/TopNav';
+import Footer from '../components/Footer';
 import ListingCard from '../components/ListingCard';
 import { api, Listing, PublicProfile, API_BASE } from '../api';
 
@@ -75,6 +76,7 @@ export default function PublicProfilePage() {
           </>
         )}
       </div>
+      <Footer />
     </div>
   );
 }

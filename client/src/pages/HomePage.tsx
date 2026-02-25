@@ -1,6 +1,7 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import TopNav from '../components/TopNav';
+import Footer from '../components/Footer';
 import ListingCard from '../components/ListingCard';
 import Modal from '../components/Modal';
 import Toast from '../components/Toast';
@@ -130,6 +131,7 @@ export default function HomePage() {
       </Modal>
 
       <Toast message={toast} onClose={() => setToast(null)} />
+      <Footer />
     </>
   );
 }

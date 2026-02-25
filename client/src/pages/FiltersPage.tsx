@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import TopNav from '../components/TopNav';
+import Footer from '../components/Footer';
 import ListingCard from '../components/ListingCard';
 import { api, Listing, ListingKind } from '../api';
 
@@ -130,6 +131,7 @@ export default function FiltersPage() {
           </div>
         </div>
       </div>
+      <Footer />
     </>
   );
 }

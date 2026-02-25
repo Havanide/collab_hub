@@ -1,6 +1,7 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { Link, useNavigate, useParams } from 'react-router-dom';
 import TopNav from '../components/TopNav';
+import Footer from '../components/Footer';
 import Modal from '../components/Modal';
 import Toast from '../components/Toast';
 import { api, Listing, Project } from '../api';
@@ -176,6 +177,7 @@ export default function ListingPage() {
       </Modal>
 
       <Toast message={toast} onClose={() => setToast(null)} />
+      <Footer />
     </>
   );
 }

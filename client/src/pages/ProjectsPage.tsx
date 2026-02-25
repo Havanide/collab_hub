@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import TopNav from '../components/TopNav';
+import Footer from '../components/Footer';
 import Modal from '../components/Modal';
 import Toast from '../components/Toast';
 import { api, Project } from '../api';
@@ -97,6 +98,7 @@ export default function ProjectsPage() {
       </Modal>
 
       <Toast message={toast} onClose={() => setToast(null)} />
+      <Footer />
     </>
   );
 }
