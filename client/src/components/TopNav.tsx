@@ -28,7 +28,7 @@ export default function TopNav() {
     <header className="topnav wb-gradient">
       <div className="container topnav-inner">
         <Link to="/app/home" className="brand">
-          <span className="brand-dot" />
+          <img src="/logo.svg" alt="logo" className="brand-logo" />
           <span className="brand-name">Сервис для коллабораций</span>
         </Link>
 

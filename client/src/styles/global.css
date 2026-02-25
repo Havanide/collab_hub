@@ -158,6 +158,7 @@ button, input, textarea, select{ font: inherit; }
 }
 .brand{ display:flex; align-items:center; gap: 10px; font-weight: 900; }
 .brand-dot{ width: 12px; height: 12px; border-radius: 6px; background: rgba(255,255,255,0.85); }
+.brand-logo{ width: 32px; height: 32px; border-radius: 8px; flex-shrink: 0; }
 .brand-name{ letter-spacing: -0.2px; }
 .nav-links{
   display:none;
@@ -247,6 +248,53 @@ button, input, textarea, select{ font: inherit; }
 }
 @media (max-width: 859px){
   .nav-user{ display: none; }
+}
+
+/* Pagination */
+.pagination{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.pagination-btn{
+  background: white;
+  border: 1px solid var(--border);
+  color: var(--text);
+  font-size: 13px;
+  padding: 8px 16px;
+}
+.pagination-btn:disabled{
+  opacity: 0.35;
+  cursor: default;
+}
+.pagination-pages{
+  display: flex;
+  gap: 4px;
+}
+.pagination-page{
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: white;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.pagination-page.active{
+  background: var(--wb-accent);
+  color: white;
+  border-color: var(--wb-accent);
+}
+.pagination-page:hover:not(.active){
+  background: rgba(110,31,247,0.08);
+  border-color: rgba(110,31,247,0.3);
 }
 
 /* Footer */

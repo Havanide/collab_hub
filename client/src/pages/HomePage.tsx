@@ -14,6 +14,8 @@ const KIND_TABS: Array<{key: ListingKind|''; label: string}> = [
   { key: 'supplier', label: 'Поставщики' }
 ];
 
+const PAGE_SIZE = 10;
+
 export default function HomePage() {
   const [q, setQ] = useState('');
   const [kind, setKind] = useState<ListingKind|''>('');
@@ -21,9 +23,14 @@ export default function HomePage() {
   const [busy, setBusy] = useState(false);
   const [modal, setModal] = useState(false);
   const [toast, setToast] = useState<string|null>(null);
+  const [page, setPage] = useState(1);
+
+  // Считаем — есть ли активный поиск/фильтр
+  const isFiltered = q.trim() !== '' || kind !== '';
 
   async function load() {
     setBusy(true);
+    setPage(1);
     try {
       const data = await api.searchListings({ q, kind });
       setItems(data);
@@ -39,10 +46,24 @@ export default function HomePage() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [kind]);
 
+  // Сброс страницы при смене фильтрации
+  useEffect(() => {
+    setPage(1);
+  }, [isFiltered]);
+
   const topHint = useMemo(() => {
     if (!q) return 'Напиши запрос: "фулфилмент", "коллаборация", "инфографика", "поставщик"';
     return `Ищем по запросу: "${q}"`;
   }, [q]);
+
+  // Пагинация — только когда нет фильтра
+  const pagedItems = useMemo(() => {
+    if (isFiltered) return items;
+    const start = (page - 1) * PAGE_SIZE;
+    return items.slice(start, start + PAGE_SIZE);
+  }, [items, page, isFiltered]);
+
+  const totalPages = isFiltered ? 1 : Math.ceil(items.length / PAGE_SIZE);
 
   return (
     <>
@@ -87,13 +108,54 @@ export default function HomePage() {
             Ищешь точнее? <Link to="/app/filters" style={{ fontWeight: 800, color: 'var(--wb-midnight)' }}>Перейти к фильтрам</Link>
           </div>
 
-          <h2 className="sectionTitle" style={{ marginTop: 18 }}>Результаты</h2>
-          {busy && <div className="small">Загрузка…</div>}
-          {!busy && items.length === 0 && <div className="small">Пока пусто. Попробуй другой запрос или создай своё объявление.</div>}
+          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: 8, marginTop: 18 }}>
+            <h2 className="sectionTitle" style={{ margin: 0 }}>Результаты</h2>
+            {!busy && items.length > 0 && (
+              <div className="small" style={{ color: 'var(--muted)' }}>
+                {isFiltered ? `Найдено: ${items.length}` : `${items.length} объявлений · страница ${page} из ${totalPages}`}
+              </div>
+            )}
+          </div>
+
+          {busy && <div className="small" style={{ marginTop: 12 }}>Загрузка…</div>}
+          {!busy && items.length === 0 && <div className="small" style={{ marginTop: 12 }}>Пока пусто. Попробуй другой запрос или создай своё объявление.</div>}
 
           <div className="grid grid-2" style={{ marginTop: 12 }}>
-            {items.map(it => <ListingCard key={it.id} listing={it} />)}
+            {pagedItems.map(it => <ListingCard key={it.id} listing={it} />)}
           </div>
+
+          {/* Пагинация — только без фильтрации */}
+          {!isFiltered && totalPages > 1 && (
+            <div className="pagination" style={{ marginTop: 24 }}>
+              <button
+                className="btn pagination-btn"
+                onClick={() => { setPage(p => Math.max(1, p - 1)); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                disabled={page === 1}
+              >
+                ← Назад
+              </button>
+
+              <div className="pagination-pages">
+                {Array.from({ length: totalPages }, (_, i) => i + 1).map(p => (
+                  <button
+                    key={p}
+                    className={`pagination-page ${p === page ? 'active' : ''}`}
+                    onClick={() => { setPage(p); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                  >
+                    {p}
+                  </button>
+                ))}
+              </div>
+
+              <button
+                className="btn pagination-btn"
+                onClick={() => { setPage(p => Math.min(totalPages, p + 1)); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                disabled={page === totalPages}
+              >
+                Вперёд →
+              </button>
+            </div>
+          )}
         </div>
       </div>
 
