@@ -176,7 +176,9 @@ button, input, textarea, select{ font: inherit; }
   border: 1px solid rgba(255,255,255,0.22);
 }
 .nav-right{ display:flex; align-items:center; gap: 10px; }
-.nav-user{ font-size: 12px; color: rgba(255,255,255,0.88); max-width: 200px; overflow:hidden; text-overflow: ellipsis; white-space: nowrap; }
+.nav-user{ font-size: 14px; font-weight: 700; color: #fff; max-width: 200px; overflow:hidden; text-overflow: ellipsis; white-space: nowrap; }
+.nav-user-link{ text-decoration: none; cursor: pointer; transition: opacity 0.15s; }
+.nav-user-link:hover{ opacity: 0.72; text-decoration: underline; }
 
 /* Burger button */
 .burger-btn{

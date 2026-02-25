@@ -42,7 +42,7 @@ export default function TopNav() {
         </nav>
 
         <div className="nav-right">
-          <div className="nav-user">{me?.profile?.display_name || me?.email}</div>
+          <Link to="/app/profile" className="nav-user nav-user-link">{me?.profile?.display_name || me?.email}</Link>
           <button className="btn btn-ghost" onClick={onLogout}>Выйти</button>
           {/* Burger button — mobile only */}
           <button
@@ -72,7 +72,7 @@ export default function TopNav() {
               </NavLink>
             ))}
             <div className="mobile-menu-divider" />
-            <div className="mobile-menu-user">{me?.profile?.display_name || me?.email}</div>
+            <Link to="/app/profile" className="mobile-menu-user nav-user-link" onClick={closeMenu}>{me?.profile?.display_name || me?.email}</Link>
             <button className="btn btn-ghost mobile-menu-logout" onClick={() => { closeMenu(); onLogout(); }}>
               Выйти
             </button>
