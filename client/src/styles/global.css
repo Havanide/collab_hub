@@ -32,8 +32,8 @@ button, input, textarea, select{ font: inherit; }
   gap:8px;
   padding: 6px 10px;
   border-radius: 999px;
-  background: rgba(203,17,171,0.10);
-  border:1px solid rgba(203,17,171,0.20);
+  background: rgba(110,31,247,0.10);
+  border:1px solid rgba(110,31,247,0.20);
   color: var(--wb-midnight);
   font-size: 12px;
   font-weight: 600;
@@ -50,7 +50,7 @@ button, input, textarea, select{ font: inherit; }
 .btn-primary{
   background: var(--wb-accent);
   color: white;
-  box-shadow: 0 10px 24px rgba(203,17,171,0.28);
+  box-shadow: 0 10px 24px rgba(110,31,247,0.28);
 }
 
 .btn-ghost{
@@ -171,7 +171,7 @@ button, input, textarea, select{ font: inherit; }
 
 /* Footer */
 .site-footer{
-  background: var(--wb-midnight, #1a0a2e);
+  background: var(--wb-midnight, #0F0A1E);
   color: rgba(255,255,255,0.6);
   padding: 16px 0;
   margin-top: auto;
@@ -221,8 +221,8 @@ button, input, textarea, select{ font: inherit; }
   font-size: 12px;
 }
 .chip.active{ 
-  border-color: rgba(203,17,171,0.35);
-  background: rgba(203,17,171,0.10);
+  border-color: rgba(110,31,247,0.35);
+  background: rgba(110,31,247,0.10);
   color: var(--wb-midnight);
 }
 

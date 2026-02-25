@@ -1,10 +1,10 @@
 :root{
-  --wb-midnight:#7D256F;
-  --wb-violet:#8D297F;
-  --wb-redviolet:#BC3D96;
-  --wb-pink:#EC238D;
-  --wb-accent:#CB11AB;
-  --bg:#0f0b14;
+  --wb-midnight:#0F0A1E;
+  --wb-violet:#6E1FF7;
+  --wb-redviolet:#8B35F8;
+  --wb-pink:#C91472;
+  --wb-accent:#6E1FF7;
+  --bg:#f6f2f7;
   --card:#ffffff;
   --text:#14121a;
   --muted:#6b7280;
@@ -14,7 +14,7 @@
 }
 
 .wb-gradient{
-  background: linear-gradient(110deg, var(--wb-midnight), var(--wb-accent), var(--wb-pink));
+  background: linear-gradient(110deg, var(--wb-midnight), var(--wb-violet), var(--wb-pink));
 }
 
 .wb-chip{
@@ -23,9 +23,9 @@
   gap:8px;
   padding:6px 10px;
   border-radius:999px;
-  background: rgba(203,17,171,0.12);
+  background: rgba(110,31,247,0.12);
   color: var(--wb-midnight);
-  border:1px solid rgba(203,17,171,0.22);
+  border:1px solid rgba(110,31,247,0.22);
   font-size:12px;
   font-weight:600;
 }

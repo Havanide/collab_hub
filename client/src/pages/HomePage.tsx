@@ -40,8 +40,8 @@ export default function HomePage() {
   }, [kind]);
 
   const topHint = useMemo(() => {
-    if (!q) return 'Напиши запрос: “фулфилмент”, “коллаборация”, “инфографика”, “поставщик”';
-    return `Ищем по запросу: “${q}”`;
+    if (!q) return 'Напиши запрос: "фулфилмент", "коллаборация", "инфографика", "поставщик"';
+    return `Ищем по запросу: "${q}"`;
   }, [q]);
 
   return (
@@ -50,13 +50,7 @@ export default function HomePage() {
       <div className="page">
         <div className="container">
           <div className="card cardPad" style={{ padding: 18 }}>
-            <div className="kpiRow">
-              <span className="badge">Стадия: MVP</span>
-              <span className="badge">Доверие: концепт</span>
-              <span className="badge">Запрос → статусы</span>
-            </div>
-
-            <h1 className="sectionTitle" style={{ marginTop: 12 }}>Поиск партнёров для коллабораций</h1>
+            <h1 className="sectionTitle">Поиск партнёров для коллабораций</h1>
             <div className="small">{topHint}</div>
 
             <div style={{ display:'grid', gap: 10, marginTop: 12 }}>
@@ -93,22 +87,6 @@ export default function HomePage() {
             Ищешь точнее? <Link to="/app/filters" style={{ fontWeight: 800, color: 'var(--wb-midnight)' }}>Перейти к фильтрам</Link>
           </div>
 
-          <div className="grid grid-2" style={{ marginTop: 14 }}>
-            <div className="card cardPad">
-              <h3 className="cardTitle">Что здесь “реально” в MVP</h3>
-              <div className="small">
-                Профиль селлера, объявления (партнёр/услуга/поставщик), поиск, фильтры, запросы на сотрудничество и статусы.
-                Верификация и рейтинги — пока концепт (как мы и обсуждали).
-              </div>
-            </div>
-            <div className="card cardPad">
-              <h3 className="cardTitle">Демо-аккаунты</h3>
-              <div className="small">
-                demo1@collab.local / demo1234 (и demo2, demo3). Можно логиниться и “пощупать”.
-              </div>
-            </div>
-          </div>
-
           <h2 className="sectionTitle" style={{ marginTop: 18 }}>Результаты</h2>
           {busy && <div className="small">Загрузка…</div>}
           {!busy && items.length === 0 && <div className="small">Пока пусто. Попробуй другой запрос или создай своё объявление.</div>}
@@ -119,7 +97,7 @@ export default function HomePage() {
         </div>
       </div>
 
-      <Modal open={modal} title="Создать объявление (MVP)" onClose={() => setModal(false)}>
+      <Modal open={modal} title="Создать объявление" onClose={() => setModal(false)}>
         <CreateListingForm
           onCreated={() => {
             setModal(false);
@@ -216,10 +194,6 @@ function CreateListingForm({
         <button className="btn btn-primary" onClick={submit} disabled={busy}>
           {busy ? 'Создаю…' : 'Создать'}
         </button>
-      </div>
-
-      <div className="small" style={{ marginTop: 10 }}>
-        Подписки и платные функции сейчас игнорируем — это чистый MVP под проверку ценности.
       </div>
     </div>
   );
