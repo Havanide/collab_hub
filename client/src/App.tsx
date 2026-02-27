@@ -15,6 +15,7 @@ import ProjectsPage from './pages/ProjectsPage';
 import RequestsPage from './pages/RequestsPage';
 import MatchesPage from './pages/MatchesPage';
 import MatchDetailsPage from './pages/MatchDetailsPage';
+import MatchSwipePage from './pages/MatchSwipePage';
 import PrivacyPage from './pages/PrivacyPage';
 
 function Protected({ children }: { children: React.ReactNode }) {
@@ -78,6 +79,14 @@ export default function App() {
           element={
             <Protected>
               <MatchDetailsPage />
+            </Protected>
+          }
+        />
+        <Route
+          path="/app/match-swipe"
+          element={
+            <Protected>
+              <MatchSwipePage />
             </Protected>
           }
         />

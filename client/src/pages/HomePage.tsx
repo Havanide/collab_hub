@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import TopNav from '../components/TopNav';
 import Footer from '../components/Footer';
 import ListingCard from '../components/ListingCard';
@@ -17,6 +17,7 @@ const KIND_TABS: Array<{key: ListingKind|''; label: string}> = [
 const PAGE_SIZE = 10;
 
 export default function HomePage() {
+  const nav = useNavigate();
   const [q, setQ] = useState('');
   const [kind, setKind] = useState<ListingKind|''>('');
   const [items, setItems] = useState<Listing[]>([]);
@@ -96,6 +97,9 @@ export default function HomePage() {
                 <div style={{ flex: 1 }} />
                 <button className="btn btn-primary" onClick={load} type="button">
                   Найти
+                </button>
+                <button className="btn btn-match" onClick={() => nav('/app/match-swipe')} type="button">
+                  🎯 Найти матч
                 </button>
                 <button className="btn" style={{ background: 'white', border: '1px solid var(--border)' }} onClick={() => setModal(true)} type="button">
                   + Добавить объявление

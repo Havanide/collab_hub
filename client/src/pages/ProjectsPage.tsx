@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import TopNav from '../components/TopNav';
 import Footer from '../components/Footer';
 import Modal from '../components/Modal';
@@ -6,6 +7,7 @@ import Toast from '../components/Toast';
 import { api, Project } from '../api';
 
 export default function ProjectsPage() {
+  const nav = useNavigate();
   const [items, setItems] = useState<Project[]>([]);
   const [loading, setLoading] = useState(true);
   const [open, setOpen] = useState(false);
@@ -36,9 +38,12 @@ export default function ProjectsPage() {
       <div className="container page">
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12, flexWrap: 'wrap' }}>
           <h1 className="sectionTitle">Мои проекты</h1>
-          <button className="btn btn-primary" disabled={atLimit} onClick={() => { setEditing(null); setOpen(true); }}>
-            + Новый проект
-          </button>
+          <div style={{ display: 'flex', gap: 10, flexWrap: 'wrap' }}>
+            <button className="btn btn-match" onClick={() => nav('/app/match-swipe')} type="button">🎯 Найти матч</button>
+            <button className="btn btn-primary" disabled={atLimit} onClick={() => { setEditing(null); setOpen(true); }}>
+              + Новый проект
+            </button>
+          </div>
         </div>
         <div className="small">В MVP можно создать до 3 проектов. Проект прикладывается к заявке на match.</div>
 

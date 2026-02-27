@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import TopNav from '../components/TopNav';
 import Footer from '../components/Footer';
 import ListingCard from '../components/ListingCard';
@@ -22,6 +23,7 @@ const SALES_RANGES = [
 ];
 
 export default function FiltersPage() {
+  const nav = useNavigate();
   const [q, setQ] = useState('');
   const [kind, setKind] = useState<ListingKind | ''>('');
   const [region, setRegion] = useState('');
@@ -111,7 +113,10 @@ export default function FiltersPage() {
                 </select>
               </div>
 
-              <button className="btn btn-primary" onClick={runSearch}>Применить фильтры</button>
+              <div style={{ display: 'flex', gap: 10, flexWrap: 'wrap' }}>
+                <button className="btn btn-primary" onClick={runSearch}>Применить фильтры</button>
+                <button className="btn btn-match" onClick={() => nav('/app/match-swipe')} type="button">🎯 Найти матч</button>
+              </div>
               <div className="small">MVP: фильтры делаем по простым полям, без сложной ранжировки.</div>
             </div>
           </div>
