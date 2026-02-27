@@ -197,7 +197,7 @@ export default function MatchSwipePage() {
       {modalOpen && current && (
         <div
           className="modalOverlay"
-          style={{ zIndex: 1000 }}
+          style={{ zIndex: 1005 }}
           onClick={() => setModalOpen(false)}
         >
           <div

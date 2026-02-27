@@ -263,7 +263,7 @@ button, input, textarea, select{ font: inherit; }
 
 /* Loading / empty screen */
 .swipe-screen{
-  position: fixed; inset: 0; z-index: 900;
+  position: fixed; inset: 0; z-index: 1001;
   background: linear-gradient(160deg, var(--wb-midnight) 0%, #1a0a3e 100%);
   display: flex; flex-direction: column;
   align-items: center; justify-content: center; gap: 20px;
@@ -282,7 +282,7 @@ button, input, textarea, select{ font: inherit; }
 
 /* Top bar */
 .swipe-topbar{
-  position: fixed; top: 0; left: 0; right: 0; z-index: 901;
+  position: fixed; top: 0; left: 0; right: 0; z-index: 1003;
   background: rgba(15,10,30,0.82); backdrop-filter: blur(8px);
   display: flex; align-items: center; justify-content: space-between;
   padding: 12px 20px;
@@ -297,7 +297,7 @@ button, input, textarea, select{ font: inherit; }
 
 /* Card area */
 .swipe-body{
-  position: fixed; inset: 0; z-index: 900;
+  position: fixed; inset: 0; z-index: 1001;
   background: linear-gradient(160deg, var(--wb-midnight) 0%, #1a0a3e 100%);
   display: flex; flex-direction: column;
   padding-top: 60px; padding-bottom: 88px; overflow-y: auto;
@@ -315,7 +315,7 @@ button, input, textarea, select{ font: inherit; }
 
 /* Action bar */
 .swipe-actions{
-  position: fixed; bottom: 0; left: 0; right: 0; z-index: 902;
+  position: fixed; bottom: 0; left: 0; right: 0; z-index: 1004;
   background: rgba(15,10,30,0.88); backdrop-filter: blur(8px);
   display: flex; gap: 16px; padding: 14px 20px;
   justify-content: center;
